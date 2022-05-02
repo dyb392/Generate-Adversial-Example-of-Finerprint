@@ -9,6 +9,8 @@ python train.py
 
 ## (when test and never train, please use computer with GPU. Because the pretrained model is trained by GPU)
 
+## test
+
 ## CNN model normal fingerprint image test
 ```
 python test.py
